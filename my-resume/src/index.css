@@ -17,7 +17,7 @@ body {
   padding: 0;
   -webkit-transition: 0.5s;
   transition: 0.5s;
-  background: #ffffff;
+  background: #353535;
   cursor: default;
   font-family: "Montserrat", sans-serif;
   font-size: 16px;
@@ -25,7 +25,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #ffffff;
+  color: #8AEA92;
   display: block;
   transition-duration: 0.3s;
 }
@@ -36,7 +36,7 @@ ul {
 }
 
 h3 {
-  color: #ffb300;
+  color: #74f07f;
   margin: 10px 0;
   text-transform: lowercase;
   font-size: 1.25em;
@@ -67,11 +67,11 @@ h3 {
 .resume .base {
   width: 30%;
   padding: 30px 15px;
-  background: #33202A;
+  background: #353535;
   color: #8AEA92;
 }
 .resume .base .profile {
-  background: #ffb300;
+  background: #353535;
   padding: 30px 15px 40px 15px;
   margin: -30px -15px 45px -15px;
   position: relative;
@@ -245,7 +245,7 @@ h3 {
 }
 @keyframes circle {
   from {
-    box-shadow: 0 0 0 0px #fdd835;
+    box-shadow: 0 0 0 0px #33202A;
   }
   to {
     box-shadow: 0 0 0 6px rgba(255, 255, 255, 0);
