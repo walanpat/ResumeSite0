@@ -44,10 +44,10 @@ h3 {
 
 .resume {
   width: 960px;
-  background: #1a237e;
-  color: #ffffff;
+  background: black;
+  color: #8AEA92;
   margin: 20px auto;
-  box-shadow: 10px 10px #0e1442;
+  box-shadow: 10px 10px #33202A;
   position: relative;
   display: flex;
 }
@@ -67,8 +67,8 @@ h3 {
 .resume .base {
   width: 30%;
   padding: 30px 15px;
-  background: #283593;
-  color: #ffffff;
+  background: #33202A;
+  color: #8AEA92;
 }
 .resume .base .profile {
   background: #ffb300;
@@ -105,21 +105,21 @@ h3 {
 }
 .resume .base .profile .info {
   text-align: center;
-  color: #ffffff;
+  color: #8AEA92;
 }
 .resume .base .profile .info .name {
   margin-top: 10px;
   margin-bottom: 0;
   font-size: 1.75em;
   text-transform: lowercase;
-  color: #1a237e;
+  color: #8AEA92;
 }
 .resume .base .profile .info .job {
   margin-top: 10px;
   margin-bottom: 0;
   font-size: 1.5em;
   text-transform: lowercase;
-  color: #283593;
+  color: #8AEA92;
 }
 .resume .base .contact div {
   line-height: 24px;
