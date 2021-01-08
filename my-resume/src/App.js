@@ -10,6 +10,7 @@ import InterestsBlock from './components/interestsBlock';
 
 function App() {
   return (
+    
   <div className="resume">
     <div className="base">
   <NameBlock/>
