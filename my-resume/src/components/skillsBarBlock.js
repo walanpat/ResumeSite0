@@ -3,7 +3,7 @@ const SkillsBarBlock = () => {
         <div className="skills-prog">
         <h3><i className="fas fa-code"></i>Programming Skills</h3>
         <ul>
-          <li data-percent="95"><span>HTML5</span>
+          <li data-percent="95"><span>React.js</span>
             <div className="skills-bar">
               <div className="bar"></div>
             </div>
@@ -28,12 +28,12 @@ const SkillsBarBlock = () => {
               <div className="bar"></div>
             </div>
           </li>
-          <li data-percent="55"><span>PHP</span>
+          <li data-percent="95"><span>HTML5</span>
             <div className="skills-bar">
               <div className="bar"></div>
             </div>
           </li>
-          <li data-percent="40"><span>MySQL</span>
+          <li data-percent="40"><span>PostGresSQL</span>
             <div className="skills-bar">
               <div className="bar"></div>
             </div>
